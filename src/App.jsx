@@ -1,10 +1,9 @@
 import React from 'react'
+import Body from './components/Body'
 
 const App = () => {
   return (
-    <div className='bg-red-500 text-white'>
-      hello
-    </div>
+    <Body/>
   )
 }
 
